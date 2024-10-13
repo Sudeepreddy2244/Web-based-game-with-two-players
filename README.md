@@ -43,6 +43,9 @@ Add game mechanics for actual car racing gameplay.
 Include sounds and music for a better experience.
 Implement a high-score tracking feature.
 
+![Screenshot (121)](https://github.com/user-attachments/assets/f2e12fce-f58e-4347-91ea-8ece918bfbee)
+
+
 
 
 
